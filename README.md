@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Himesh-Bhattarai(Chanchal)
-- 🌱 I’m currently learning c & javascript.
+
