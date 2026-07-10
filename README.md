@@ -103,19 +103,6 @@ Git • GitHub • Postman
 
 ---
 
-## 📈 GitHub Activity
-
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himesh-Bhattarai&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Bhattarai&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 ## 📊 GitHub Streak
 
 <p align="center">
