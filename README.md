@@ -1,78 +1,86 @@
 # Hi, I'm Himeshchanchal Bhattarai 👋
 
-I'm a Full Stack Developer focused on building scalable web applications, backend systems, AI-powered products, and developer tools.
+**Software Engineer focused on Backend Engineering, AI-Powered Products, and Developer Tools.**
 
-Currently pursuing a Bachelor of Computer Applications (BCA) while working toward becoming a Software Engineer who values clean architecture, maintainable code, and thoughtful user experiences.
-
----
-
-## Engineering Philosophy
-
-I believe software should solve real problems while remaining easy to understand, extend, and maintain.
-
-Rather than chasing frameworks, I enjoy designing systems, improving developer experience, and building products that people actually use.
+I'm a Full Stack Developer pursuing a Bachelor of Computer Applications (BCA), passionate about building software that is reliable, maintainable, and solves real-world problems. My interests lie beyond writing features—I enjoy designing systems, improving developer experience, and creating products with clean architecture.
 
 ---
 
-## What I Build
+## 🚀 What I'm Building
 
-- AI-powered Web Applications
-- Backend APIs
-- Full Stack Products
-- Developer Tools
-- Open Source Packages
+I enjoy working on projects that combine product thinking with solid engineering principles.
+
+- 🤖 AI-powered web applications
+- ⚙️ Backend systems and REST APIs
+- 🛠 Developer tools and CLI utilities
+- 📦 Open-source packages
+- 🌐 Full-stack web platforms
 
 ---
 
-## Featured Projects
+## 💡 Engineering Philosophy
 
-### 🤖 AI Integrated E-Commerce Platform
+I believe good software is more than working code.
 
-A modern e-commerce platform with AI-powered product search, intelligent recommendations, review summarization, and conversational shopping assistance.
+I strive to build applications that are:
+
+- Easy to understand
+- Easy to maintain
+- Scalable as requirements grow
+- Focused on solving real user problems
+
+Rather than chasing every new framework, I focus on strengthening engineering fundamentals, backend architecture, and delivering polished products.
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI Integrated E-Commerce Platform
+
+An AI-powered e-commerce platform featuring intelligent product search, conversational shopping assistance, AI-generated FAQs, review summarization, authentication, seller management, and a modern shopping experience.
 
 **Tech**
 
-Next.js • TypeScript • MongoDB • JWT • Tailwind CSS • AI APIs
+Next.js • TypeScript • MongoDB • JWT • Tailwind CSS • AI Integration
 
 ---
 
-### 📄 ContentFlow CMS
+## 📄 ContentFlow CMS
 
-A headless CMS built for flexibility, content management, and API-first development.
-
----
-
-### 🌐 Personal Portfolio
-
-A dynamic portfolio platform featuring an admin dashboard, blog, analytics, SEO optimization, and case studies.
+A headless CMS designed for flexible content management with an API-first architecture, authentication, and scalable content delivery.
 
 ---
 
-### ⚡ STATUS Commit System
+## 🌐 Personal Portfolio Platform
 
-A developer tool that standardizes commit messages and improves project consistency.
-
-Published as an npm package.
+A dynamic portfolio platform built as a small CMS with an admin dashboard, analytics, SEO optimization, blogs, project management, and case studies.
 
 ---
 
-### 📰 NP News Portal
+## ⚡ STATUS Commit System
 
-A responsive news platform with category management, search functionality, and optimized content delivery.
+A developer tool published as an npm package to standardize commit messages and improve team consistency.
 
 ---
 
-## Current Focus
+## 📰 NP News Portal
 
-- Backend Engineering
+A responsive news platform featuring categorized content, search functionality, and a clean reading experience.
+
+---
+
+# 🌱 Currently Exploring
+
 - Software Architecture
-- AI Integration
-- Developer Tools
+- Backend Engineering
+- AI Integration Patterns
+- System Design
+- Developer Experience (DX)
 - Open Source
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -87,8 +95,8 @@ A responsive news platform with category management, search functionality, and o
 - Express.js
 - MongoDB
 - Mongoose
-- JWT Authentication
 - REST APIs
+- JWT Authentication
 - Zod
 
 ### Tools
@@ -100,20 +108,12 @@ A responsive news platform with category management, search functionality, and o
 
 ---
 
-## GitHub Statistics
+# 📫 Let's Connect
 
-(Add GitHub Stats)
-
-(Add Top Languages)
+- 🌐 Portfolio: https://www.himeshchanchal.com.np
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 📧 Email: *(your professional email)*
 
 ---
 
-## Let's Connect
-
-Portfolio
-
-LinkedIn
-
-Email
-
-Always open to discussing software engineering, backend development, AI-powered applications, and open-source collaboration.
+> *"I'm building products today while growing into the software engineer I want to become tomorrow."*
