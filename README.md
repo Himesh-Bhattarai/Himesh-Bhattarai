@@ -1,119 +1,148 @@
-# Hi, I'm Himeshchanchal Bhattarai 👋
 
-**Software Engineer focused on Backend Engineering, AI-Powered Products, and Developer Tools.**
+<p align="center">
+  <img src="./assets/banner.png" alt="Himeshchanchal Bhattarai Banner" width="100%" />
+</p>
 
-I'm a Full Stack Developer pursuing a Bachelor of Computer Applications (BCA), passionate about building software that is reliable, maintainable, and solves real-world problems. My interests lie beyond writing features—I enjoy designing systems, improving developer experience, and creating products with clean architecture.
+<h1 align="center">Hi, I'm Himeshchanchal Bhattarai 👋</h1>
 
----
+<p align="center">
+Software Engineer • Backend Engineering • AI-Powered Products • Developer Tools
+</p>
 
-## 🚀 What I'm Building
-
-I enjoy working on projects that combine product thinking with solid engineering principles.
-
-- 🤖 AI-powered web applications
-- ⚙️ Backend systems and REST APIs
-- 🛠 Developer tools and CLI utilities
-- 📦 Open-source packages
-- 🌐 Full-stack web platforms
+<p align="center">
+Building software that is maintainable, scalable, and solves real-world problems.
+</p>
 
 ---
 
-## 💡 Engineering Philosophy
+## 👨‍💻 About Me
 
-I believe good software is more than working code.
+I'm a Full Stack Developer with a strong interest in backend engineering, AI-powered applications, and developer tools. I enjoy building backend systems, AI-powered web applications, and developer tools with an emphasis on clean architecture, maintainability, and user-focused solutions.
 
-I strive to build applications that are:
-
-- Easy to understand
-- Easy to maintain
-- Scalable as requirements grow
-- Focused on solving real user problems
-
-Rather than chasing every new framework, I focus on strengthening engineering fundamentals, backend architecture, and delivering polished products.
+I enjoy taking ideas from concept to production by designing maintainable architectures, building clean APIs, and creating developer-friendly solutions.
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 What I Enjoy Building
 
-## 🤖 AI Integrated E-Commerce Platform
-
-An AI-powered e-commerce platform featuring intelligent product search, conversational shopping assistance, AI-generated FAQs, review summarization, authentication, seller management, and a modern shopping experience.
-
-**Tech**
-
-Next.js • TypeScript • MongoDB • JWT • Tailwind CSS • AI Integration
+- 🤖 AI-powered Web Applications
+- ⚙️ Backend Systems & REST APIs
+- 🛠 Developer Tools & CLI Utilities
+- 📦 Open Source Projects
+- 🌐 Full Stack Products
 
 ---
 
-## 📄 ContentFlow CMS
+## ⭐ Featured Projects
 
-A headless CMS designed for flexible content management with an API-first architecture, authentication, and scalable content delivery.
-
----
-
-## 🌐 Personal Portfolio Platform
-
-A dynamic portfolio platform built as a small CMS with an admin dashboard, analytics, SEO optimization, blogs, project management, and case studies.
+### 🤖 [AI Integrated E-Commerce Platform](https://github.com/Himesh-Bhattarai/ai-powered-ecommerce)
+AI-powered e-commerce platform featuring intelligent product search, conversational shopping, seller management, JWT authentication, and AI-assisted product discovery.
 
 ---
 
-## ⚡ STATUS Commit System
-
-A developer tool published as an npm package to standardize commit messages and improve team consistency.
-
----
-
-## 📰 NP News Portal
-
-A responsive news platform featuring categorized content, search functionality, and a clean reading experience.
+### 📄 [ContentFlow Headless CMS](https://github.com/Himesh-Bhattarai/Open_Source_CMS)
+API-first content management system focused on flexible content delivery, authentication, and scalable architecture.
 
 ---
 
-# 🌱 Currently Exploring
-
-- Software Architecture
-- Backend Engineering
-- AI Integration Patterns
-- System Design
-- Developer Experience (DX)
-- Open Source
+### 🌐 [Portfolio Platform](https://himeshchanchal.com.np)
+A dynamic portfolio platform with an admin dashboard, blog management, analytics, SEO optimization, and project case studies.
 
 ---
 
-# 🛠 Tech Stack
+### ⚡ [STATUS Commit System](https://github.com/Himesh-Bhattarai/STATUS_COMMIT)
+Open-source npm package that standardizes commit messages and promotes consistent Git workflows.
+
+---
+
+### 📰 [NP News Portal](https://github.com/Himesh-Bhattarai/NP_NEWS_PORTAL)
+Responsive news platform with category management, search functionality, and optimized content delivery.
+
+---
+
+---
+## 🚧 Currently Working On
+
+• AI Integrated E-Commerce Platform
+
+• Dynamic Portfolio Platform
+
+• Open Source Developer Tools
+
+---
+
+## 📦 Open Source
+
+I enjoy building reusable tools that improve the developer experience.
+
+Current work includes:
+
+- STATUS Commit System (npm package)
+- Developer CLI utilities
+- Future open-source developer tools
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • Python
 
 ### Frontend
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+Next.js • React • Tailwind CSS
 
 ### Backend
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
-- JWT Authentication
-- Zod
+Node.js • Express • MongoDB • REST APIs
 
 ### Tools
 
-- Git
-- GitHub
-- Postman
-- VS Code
+Git • GitHub • Postman
 
 ---
 
-# 📫 Let's Connect
+## 📈 GitHub Activity
 
-- 🌐 Portfolio: https://www.himeshchanchal.com.np
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(your professional email)*
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himesh-Bhattarai&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Bhattarai&layout=compact&hide_border=true"/>
+
+</p>
 
 ---
 
-> *"I'm building products today while growing into the software engineer I want to become tomorrow."*
+## 📊 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Himesh-Bhattarai&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio — https://www.himeshchanchal.com.np
+- 💼 LinkedIn — https://www.linkedin.com/in/himeshchanchal-bhattarai
+- 📧 Email — himesh.hcb@gmail.com
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready full-stack applications
+- Deepen backend engineering knowledge
+- Create high-quality developer tools
+- Contribute to open source
+- Continue learning software architecture and system design
+
+---
+
+⭐ Thanks for visiting my profile! If you're interested in backend engineering, AI-powered products, or developer tools, feel free to explore my repositories or connect with me.
+```
