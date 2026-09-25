@@ -6,11 +6,11 @@
 <h1 align="center">Hi, I'm Himeshchanchal Bhattarai 👋</h1>
 
 <p align="center">
-Software Engineer • Backend Engineering • AI-Powered Products • Developer Tools
+Full Stack Developer | React • Next.js • TypeScript • Node.js • PostgreSQL
 </p>
 
 <p align="center">
-Building software that is maintainable, scalable, and solves real-world problems.
+Building production web applications, APIs and AI-enabled products.
 </p>
 
 ---
